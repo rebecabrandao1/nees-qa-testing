@@ -26,5 +26,6 @@ Só pedimos que siga as seguintes instruções:
   - respondendo as perguntas:
     - O que você achou do teste?
     - Quais foram os pontos positivos e negativos do teste?
+    - O que podemos melhorar?
 
 Boa sorte 🍀! Aguardamos sua submissão!
