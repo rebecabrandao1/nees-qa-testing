@@ -18,4 +18,8 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
   2. Cadastro de usuário
   3. Verificação do acesso como professor
   4. Verificação do acesso como aluno
-  
+
+# Login e autenticação
+# Cadastro de usuário
+# Verificação do acesso como professor
+# Verificação do acesso como aluno
