@@ -129,3 +129,16 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
     <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/37.png" width="500" />
 </div>
 
+
+## Testes de instalação
+| Objetivo: |  |
+|-------------|-----------------------------------------------------------------------------|
+| Técnica: |  1. Verificar a instalação em sistemas android
+              2. Verificar a instalação em sistemas IOS|            
+|-------------|-----------------------------------------------------------------------------|
+|Critério de finalização:  | Será finalizado se funcionar perfeitamente em todas as versões |
+|Passos:  | Ir até a loja de cada sistema operacional e instalar o aplicativo |
+
+
+## Testes de Carga
+
