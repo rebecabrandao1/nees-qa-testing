@@ -19,7 +19,7 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
   3. Verificação do acesso como professor
   4. Verificação do acesso como aluno
 
-# Login e autenticação
-# Cadastro de usuário
-# Verificação do acesso como professor
-# Verificação do acesso como aluno
+# Login e autenticação UC001
+# Cadastro de usuário UC002
+# Verificação do acesso como professor UC003
+# Verificação do acesso como aluno UC004
