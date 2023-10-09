@@ -23,17 +23,69 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
 <p float="left">
 
  <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/01.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
  <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/02.png" width="500" />
  
 
 </p>
+<p float="left">
 
-nees - img/02.png
-nees - img/03.png
-nees - img/04.png
-nees - img/05.png
-nees - img/06.png
-nees - img/07.png
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/03.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/04.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/05.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/06.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/07.png" width="500" />
+
+</p>
+
 # Cadastro de usuário UC002
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/11.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/12.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/13.png" width="500" />
+ 
+
+</p>
+<p float="left">
+
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/14.png" width="500" />
+ 
+
+</p>
 # Verificação do acesso como professor UC003
 # Verificação do acesso como aluno UC004
