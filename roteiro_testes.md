@@ -23,6 +23,7 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
 <p float="left">
 
  <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/01.png" width="500" />
+ <img src="https://github.com/rebecabrandao1/nees-qa-testing/blob/bda4b4ed4b2fb1d7c4d9c7509c2edb9a2a5b5e5a/nees%20-%20img/02.png" width="500" />
  
 
 </p>
