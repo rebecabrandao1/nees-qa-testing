@@ -135,8 +135,11 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
 | Objetivo                |                                                                  |
 |-------------------------|------------------------------------------------------------------|
 | Técnica                 | 1. Verificar a instalação em sistemas Android|
-|                         ||2. Verificar a instalação em sistemas iOS        |            
+|-------------------------|------------------------------------------------------------------|
+|                         ||2. Verificar a instalação em sistemas iOS        |      
+|-------------------------|------------------------------------------------------------------|
 | Critério de finalização | Será finalizado se funcionar perfeitamente em todas as versões |
+|-------------------------|------------------------------------------------------------------|
 | Passos                  | Ir até a loja de cada sistema operacional e instalar o aplicativo |
 
 
@@ -145,7 +148,9 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
 | Objetivo                | Verificar a segurança no nível da aplicação e do sistema         |
 |-------------------------|------------------------------------------------------------------|
 | Técnica                 |1. Identificar os usuários até então cadastrados e sua permissão|
-|                         | |2. Criar testes para cada tipo de usuário e depois executá-los mudando a permissão|            
+|-------------------------|------------------------------------------------------------------|
+|                         | |2. Criar testes para cada tipo de usuário e depois executá-los mudando a permissão|  
+|-------------------------|------------------------------------------------------------------|
 | Critério de finalização | Será finalizado se funcionar perfeitamente em todas as versões de usuário |
 
 
@@ -155,8 +160,11 @@ Testar o máximo de funcionalidades que estão no aplicativo para verificar a us
 | Objetivo                | Verificar o desempenho do sistema no melhor caso de funcionamento e no pior caso|
 |-------------------------|------------------------------------------------------------------|
 | Técnica                 | 1. Testar o sistema com um usuário por vez|
+|-------------------------|------------------------------------------------------------------|
 |                         | |2. Testar o sistema com vários usuários acessando ao mesmo tempo|
-|                         | |3. Repetir isso para todos os casos de uso|            
+|-------------------------|------------------------------------------------------------------|
+|                         | |3. Repetir isso para todos os casos de uso|  
+|-------------------------|------------------------------------------------------------------|
 | Critério de finalização | Será finalizado se funcionar perfeitamente em todos os casos e com um tempo de resposta adequado |
 
 
